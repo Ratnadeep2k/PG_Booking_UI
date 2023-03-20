@@ -1,0 +1,26 @@
+.footer{
+  /* width: 100%; */
+  font-size: 20px;
+
+}
+.texfoot{
+  text-decoration: none;
+  margin: 20px;
+}
+.home{
+  text-decoration: none;
+}
+.about{
+  text-decoration: none;
+  margin-left: 30px;
+}
+.contact{
+  text-decoration: none;
+  margin-left: 30px;
+}
+.cpy{
+  
+  margin-top: auto;
+  text-align: center;
+  font-size: 15px;
+}

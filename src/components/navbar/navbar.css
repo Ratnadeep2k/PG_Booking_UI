@@ -1,0 +1,56 @@
+.navbar{
+  height: 50px;
+  background-color: hsl(216, 7%, 55%);
+  display: flex;
+  justify-content: center;
+}
+
+.navContainer{
+  width: 100%;
+  max-width: 1024px;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.logo{
+  font-weight: 500;
+}
+
+.navButtonR{
+        text-decoration: none;
+        border-radius: 5em;
+        color: #fff;
+        background: #6f2020;
+        border: 0;
+        padding-left: 40px;
+        padding-right: 40px;
+        padding-bottom: 10px;
+        padding-top: 10px;
+        font-family: 'Ubuntu', sans-serif;
+        font-size: 13px;
+        box-shadow: 0 0 20px 1px rgba(0, 0, 0, 0.04);
+}
+.navButtonR:hover{
+  background-color: black;
+}
+.navButtonL{
+  text-decoration: none;
+        border-radius: 5em;
+        color: #fff;
+        background: hsl(216, 7%, 55%);;
+        border: 0;
+        padding-left: 40px;
+        padding-right: 40px;
+        padding-bottom: 10px;
+        padding-top: 10px;
+        font-family: 'Ubuntu', sans-serif;
+        margin-left:10%;
+        font-size: 13px;
+        box-shadow: 0 0 20px 1px rgba(0, 0, 0, 0.04);
+ 
+}
+.navButtonL:hover{
+  background-color: rgb(91, 13, 13);
+}
